@@ -27,6 +27,6 @@ func main() {
 
 	cd := make([]float64, 0)
 	cd = append(cd, 5.0)
-	fmt.Println(cd[0:2])
+	fmt.Println(cd[0:1])
 
 }
